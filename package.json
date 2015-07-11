@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-plaform",
+  "version": "1.0.0",
+  "description": "application for handling media based portfolio websites",
+  "main": "app.js",
+  "scripts": {
+    "test": "mocha test.js"
+  },
+  "author": "Shaun Gordon",
+  "license": "MIT",
+  "dependencies": {
+    "body-parser": "^1.13.2",
+    "express": "^4.13.1",
+    "express-paginate": "0.0.8",
+    "grunt": "^0.4.5",
+    "mongoose": "^4.0.6",
+    "passport": "^0.2.2",
+    "request": "^2.58.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {
+    "mocha": "^2.2.5",
+    "supertest": "^1.0.1"
+  }
+}
