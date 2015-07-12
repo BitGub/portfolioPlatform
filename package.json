@@ -4,7 +4,7 @@
   "description": "application for handling media based portfolio websites",
   "main": "app.js",
   "scripts": {
-    "test": "mocha test.js"
+    "test": "mocha ./tests/*/*.js"
   },
   "author": "Shaun Gordon",
   "license": "MIT",
