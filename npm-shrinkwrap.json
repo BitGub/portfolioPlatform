@@ -111,6 +111,11 @@
         }
       }
     },
+    "ejs": {
+      "version": "2.3.3",
+      "from": "ejs@*",
+      "resolved": "https://registry.npmjs.org/ejs/-/ejs-2.3.3.tgz"
+    },
     "express": {
       "version": "4.13.1",
       "from": "express@*",
@@ -579,6 +584,11 @@
           }
         }
       }
+    },
+    "json-routing": {
+      "version": "0.1.4",
+      "from": "json-routing@*",
+      "resolved": "https://registry.npmjs.org/json-routing/-/json-routing-0.1.4.tgz"
     },
     "mongoose": {
       "version": "4.0.6",

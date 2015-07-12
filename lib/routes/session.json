@@ -1,0 +1,13 @@
+{
+  "/sessions": {
+    "GET": {
+      "route": "index"
+    },
+    "POST": {
+      "route": "create"
+    },
+    "POST": {
+      "route": "destroy"
+    }
+  }
+}
