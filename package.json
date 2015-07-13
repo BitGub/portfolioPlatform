@@ -14,8 +14,11 @@
     "express": "^4.13.1",
     "express-paginate": "0.0.8",
     "grunt": "^0.4.5",
+    "install": "^0.1.8",
     "json-routing": "^0.1.4",
+    "mongodb-uri": "^0.9.7",
     "mongoose": "https://registry.npmjs.org/mongoose/-/mongoose-4.0.6.tgz",
+    "npm": "^2.13.0",
     "passport": "^0.2.2",
     "request": "^2.58.0",
     "underscore": "^1.8.3"

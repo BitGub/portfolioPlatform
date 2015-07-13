@@ -1,7 +1,10 @@
+require('../config');
 var request = require('supertest');
 var app = require('../../lib/server');
 
 describe("Returns session path", function(){
+  
+  console.log("running tests in " + process.env.NODE_ENV + " env");
 
   it('Returns a 200 status code', function(done){
     request(app)

@@ -1,3 +1,4 @@
+require('../config');
 var request = require('supertest');
 var app = require('../../lib/server');
 
