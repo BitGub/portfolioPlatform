@@ -1,6 +1,6 @@
 require('../config');
 var request = require('supertest');
-var app = require('../../lib/server');
+var app = require('../../app');
 
 describe("Returns session path", function(){
   
