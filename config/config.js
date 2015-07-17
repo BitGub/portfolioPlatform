@@ -14,11 +14,11 @@ module.exports = {
       dialect: "mysql"
     },
     production: {
-      username: process.env.RDS_USERNAME,
-      password: process.env.RDS_PASSWORD,
-      database: process.env.RDS_DB_NAME,
-      host: process.env.RDS_HOSTNAME,
-      port: 	  process.env.RDS_PORT,
+      username: "ppAdmin",
+      password: "C4HdD39Pp",
+      database: "ebdb",
+      host: "aaao97yuhbvdi6.c80ja0hhcmpk.eu-west-1.rds.amazonaws.com",
+      port: 	  3306,
       dialect: "mysql"
     }
 }
